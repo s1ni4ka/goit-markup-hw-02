@@ -14,6 +14,7 @@ a {text-decoration: none;}
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         letter-spacing: 0.03em;
+        line-height: 1.17;
         text-transform: uppercase;
 }
 
@@ -103,3 +104,9 @@ text-align: center;
 text-transform: capitalize;}
 
 .section3_list {background-color: #FFFFFF;}
+
+.footer-text {
+    color: #f4f4fd;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
