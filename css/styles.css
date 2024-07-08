@@ -13,13 +13,11 @@ a {text-decoration: none;}
         font-style: normal;
         font-family: "Raleway", sans-serif;
         font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 1px;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 
-.header-logo {margin-right: 76px;
-}
+.header-logo {margin-right: 76px;}
 
 .header-logo .logo-part {
     color: #2e2f42;}
@@ -33,7 +31,7 @@ a {text-decoration: none;}
     font-style: normal;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0;
+    letter-spacing: 0.02em;
     text-transform: none;
 }
 
@@ -43,6 +41,7 @@ a {text-decoration: none;}
     font-size: 16px;
     text-align: left;
     line-height: 24px;
+    letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus,
@@ -50,3 +49,57 @@ a {text-decoration: none;}
 .contacts-link:focus {color: #404bbf;}
 
 .page-footer {background-color: #2e2f42;}
+
+.section1 {background-color: #2e2f42;}
+.h1 {
+    color: #fff;
+    font-size: 56px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;}
+
+.button1 { gap: 10px;
+    padding: 16px 32px;
+    border-radius: 4px 4px 4px 4px;
+    background-color: #4d5ae5;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-transform: none;
+    text-align: center;
+    cursor: pointer;}
+
+    .button1:hover,
+    .button1:focus {background-color: #404bbf;}
+
+.h3_section2 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;}
+
+  .text {
+    color: #434455;
+    font-size: 16px;
+    margin-top: 0;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 0;
+    letter-spacing: 0.02;
+  }
+.section3 {background-color: #F4F4FD;}
+
+.h2 {color: #2e2f42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;}
+
+.section3_list {background-color: #FFFFFF;}
