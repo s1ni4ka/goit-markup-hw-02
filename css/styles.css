@@ -90,7 +90,7 @@ a {text-decoration: none;}
     font-weight: 400;
     line-height: 1.5;
     margin-bottom: 0;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
   }
 .section3 {background-color: #F4F4FD;}
 
